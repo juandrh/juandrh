@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Juan Del Rio
 - 👀 I’m interested in Antificial Inteligence and Computer Science
-- 🌱 I’m currently learning Deep Learning / Unreal Engine / Three.js
-- 💞️ I’m looking to collaborate on a interesting proyect.
+- 🌱 I’m currently learning Deep Learning / Unreal Engine / Three.js / ...
 - 📫 How to reach me: juandrh2.0@gmail.com
